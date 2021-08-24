@@ -6,6 +6,8 @@ Através dele, foi possível aprender os conceitos básicos de tecnologias como 
 
 O objetivo, além de recriar o game, foi aprender a utilizar funções e conceitos básicos do JS, trabalhando com estruturas de repetição e de condição e também elementos gráficos.
 
+:video_game: [Clique aqui](https://framesgabriel-snake-game-js.netlify.app) para jogar! :snake:
+
 ## Tecnologias Utilizadas
 - JavaScript
 - HTML5

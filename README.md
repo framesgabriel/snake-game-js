@@ -12,4 +12,4 @@ O objetivo, além de recriar o game, foi aprender a utilizar funções e conceit
 - CSS3
 
 ## Referências
-O projeto original foi criado pela desenvolvedora [Gabriel Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/) e o código original pode ser visto [aqui](https://github.com/SpruceGabriela/snake-the-game).
+O projeto original foi criado pela desenvolvedora [Gabriela Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/) e o código original pode ser visto [aqui](https://github.com/SpruceGabriela/snake-the-game).

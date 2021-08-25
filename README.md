@@ -13,5 +13,9 @@ O objetivo, além de recriar o game, foi aprender a utilizar funções e conceit
 - HTML5
 - CSS3
 
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](#)
+[<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />](#)
+
 ## Referências
 O projeto original foi criado pela desenvolvedora [Gabriela Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/) e o código original pode ser visto [aqui](https://github.com/SpruceGabriela/snake-the-game).

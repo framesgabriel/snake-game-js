@@ -1,4 +1,4 @@
-[<img src="./readme-img/readme-snakegame.jpg" />](# "snake game with javascript")
+[<img src="./docs/img/readme-snakegame.jpg" />](# "snake game with javascript")
 
 # Snake Game with JavaScript
 

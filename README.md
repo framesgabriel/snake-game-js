@@ -1,4 +1,5 @@
-![snake game with javascript banner](https://github.com/framesgabriel/snake-game-js/blob/master/readme-img/readme-snakegame.jpg "snake game with javascript")
+[<img src="./readme-img/readme-snakegame.jpg" />](# "snake game with javascript")
+
 # Snake Game with JavaScript
 
 Esse projeto é uma recriação do famoso "jogo da cobrinha" e foi feito durante o bootcamp **HTML Web Developer** oferecido pela plataforma [Digital Innovation One](https://web.digitalinnovation.one/users/gabrieldframeschi).
